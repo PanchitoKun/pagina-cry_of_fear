@@ -1,0 +1,72 @@
+
+.almendra-regular {
+  font-family: "Almendra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.almendra-bold {
+  font-family: "Almendra", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.almendra-regular-italic {
+  font-family: "Almendra", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.almendra-bold-italic {
+  font-family: "Almendra", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+p{
+color: rgb(180, 26, 26); 
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+.destacado{
+  font-weight:bold;
+  color: rgb(180, 26, 26);
+};
+#princiapal{
+font-size: 20px; 
+text-decoration: underline; 
+
+}
+.naveggacion{
+  color: rgb(180, 26, 26);
+  text-decoration: none; 
+  position: center; 
+
+}
+ul{
+  background-color: rgb(red, rgb(0, 0, 0), rgb(189, 30, 30));
+
+}
+
+
+.VIDEO {
+  width: 200%;
+}
+.Absolute {
+  width: 100vh;
+  height: 100vh;
+  top: 0;
+  right: 0;
+  position: absolute;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+
+}
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: #00000028;
+}
